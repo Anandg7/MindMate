@@ -1,0 +1,27 @@
+{
+  "name": "healthcare-backend",
+  "version": "1.0.0",
+  "description": "\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xenova/transformers": "^2.16.1",
+    "afinn-111": "^2.0.1",
+    "apos-to-lex-form": "^1.0.5",
+    "bcryptjs": "^2.4.3",
+    "compromise": "^14.12.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.0",
+    "natural": "^6.12.0",
+    "nltk": "^0.0.1",
+    "spelling-corrector": "^3.0.0",
+    "stopword": "^3.0.1"
+  }
+}
